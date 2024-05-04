@@ -1,0 +1,46 @@
+# Start code!
+
+# Variable names below.
+
+# First name 
+ 
+ first_name = "Abdulrazzaq"
+
+# Last name
+ 
+ last_name = "Al Rawi"
+
+# Age
+ 
+person_age = 29
+
+# Country
+ 
+Country = "Iraq"
+
+# Nationality
+ 
+Nationality = "Iraqi"
+
+# Residency location
+ 
+Residency = "Ireland"
+
+
+# value codes below.
+
+
+print("first_name")
+
+print("last_name")
+
+print("person_age")
+
+print("Country")
+
+print("Nationality")
+
+print("Residency")
+
+# End Code!
+
